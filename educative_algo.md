@@ -6,4 +6,5 @@
    Not clear at all. Practice more times. Compare left with mid to see whether left or right half is sorted
 
 # To learn later
-1. 2074. Reverse Nodes in Even Length Groups
+1. 25. Reverse Nodes in k-Group
+2. 2074. Reverse Nodes in Even Length Groups
